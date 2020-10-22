@@ -3,22 +3,22 @@
     {
       "name": "Test 1",
       "setup": "",
-      "run": "",
+      "run": "cd .",
       "input": "",
       "output": "",
       "comparison": "included",
       "timeout": 2,
-      "points": 
+      "points": 0
     },
     {
       "name": "Test 2",
       "setup": "",
-      "run": "",
+      "run": "cd .",
       "input": "",
       "output": "",
       "comparison": "included",
       "timeout": 2,
-      "points": 
+      "points": 0
     }
   ]
 }
